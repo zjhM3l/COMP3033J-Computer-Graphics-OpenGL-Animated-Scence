@@ -1,0 +1,13 @@
+Drag the mouse 	- 	Adjust the perspective yourself
+KEY_A		-	Start/Close the animation
+KEY_R		-	Reset the perspective
+KEY_G		-	Turn on/off Earth's gravity simulator
+KEY_T		-	Turn on/off the Space Train
+KEY_UP		-	Speed up the Space Train
+KEY_DOWN	-	Speed down the Space Train
+KEY_NUMPAD8	-	Control the astronaut to move up
+KEY_NUMPAD2	-	Control the astronaut to move down
+KEY_NUMPAD4	-	Control the astronaut to move left
+KEY_NUMPAD6	-	Control the astronaut to move right
+KEY_W		-	Control the astronaut to move forward
+KEY_S		-	Control the astronaut to move backward
